@@ -9,13 +9,13 @@
     <meta name="author" content="Ana Clara Martins">
     <meta name="keywords" content="psicologa, consulta, ana, clara, martins, consultorio, psicologia">
     <meta name="robots" content="index,follow,nosnippet">
-    <meta http-equiv="refresh" content="5;url=http://localhost/projetos/consultorio/index">
+    <!-- <meta http-equiv="refresh" content="5;url=http://localhost/projetos/consultorio/index.php"> -->
     <meta name="language" content="pt-BR">
 
     <meta property="og:title" content="Psicóloga Ana Clara Martins - Atendimento Terapêutico e Apoio Emocional">
     <meta property="og:description" content="Conheça os serviços de psicoterapia e apoio emocional oferecidos por Ana Clara Martins, psicóloga dedicada ao bem-estar dos pacientes.">
     <meta property="og:image" content="https://www.seusite.com/imagem-compartilhamento.jpg">
-    <meta property="og:url" content="http://localhost/projetos/consultorio/index">
+    <!-- <meta property="og:url" content="http://localhost/projetos/consultorio/index.php"> -->
     <meta name="geo.position" content="latitude;longitude">
 
 
@@ -90,9 +90,9 @@
       <div class="row">
         <div class="col-lg-6 align-self-center">
           <div class="header-text">
-            <h2>Compre semijoias de luxo<br><em>Manuela Britto acessórios</em></h2>
+            <h2>Terapia Comportamental<br><em>Ana Clara Martins Psicologa</em></h2>
             <div class="main-button-gradient ">
-              <a class="pulse" href="https://api.whatsapp.com/send?1=pt_BR&phone=553198046573&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank">Agendar agora!</a>
+              <a class="pulse" href="https://api.whatsapp.com/send?1=pt_BR&phone=5531971084977&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank">Agendar agora!</a>
             </div>
           </div>
         </div>
@@ -116,10 +116,10 @@
         </div>
         <div class="col-lg-6 align-self-center">
           <div class="section-heading">
-            <h4>Conheça<br><em style="font-size: 32px;">Manuela Britto</em></h4>
-            <p class="justificado">A Manuela Britto Acessórios é uma marca mineira de semijoias de luxo, que prima pela qualidade e sofisticação de suas peças, estando sempre de acordo com as exigências da mulher moderna.</p>
-            <p class="justificado" style="margin-top: 15px;">As semijoias são fabricadas de forma artesanal, sendo o design e a variedade dos modelos o diferencial da marca, sempre acompanhando as tendências da moda.</p>
-            <p class="justificado" style="margin-top: 15px;">A empresa está no mercado desde 2014, tendo diversas atacadistas espalhadas por todo país.</p>
+            <h4>Conheça<br><em style="font-size: 32px;">Ana Clara Martins</em></h4>
+            <p class="justificado">Meu nome é Ana Clara Martins, graduada em Psicologia pelo Centro Universitário Newton Paiva e pós graduanda em Psicopatologia Clinica. </p>
+            <p class="justificado" style="margin-top: 15px;">Meu trabalho é baseado na Terapia Cognitivo Comportamental (TCC), que tem como principal objetivo auxiliar as pessoas a identificarem padrões de comportamentos, pensamentos, crenças e hábitos que dão origem aos seus problemas.</p>
+            <p class="justificado" style="margin-top: 15px;">Acredito que uma vida saudável acontece quando corpo e mente estão em equilíbrio, isso pode ser alcançado através do autoconhecimento e do entendimento da importância de aprender a lidar melhor com as emoções.</p>
           </div>
           </div>
         </div>
