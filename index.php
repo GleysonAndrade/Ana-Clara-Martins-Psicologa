@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Ana Clara Martins é uma psicóloga dedicada a proporcionar um atendimento terapêutico de qualidade e acolhedor. Conheça os serviços de psicoterapia e apoio emocional oferecidos, e inicie uma jornada de autodescoberta e bem-estar.">
     <meta name="author" content="Ana Clara Martins">
-    <meta name="keywords" content="psicologa, consulta, ana, clara, martins, consultorio, psicologia">
+    <meta name="keywords" content="psicóloga, consulta, ana, clara, martins, consultorio, psicologia">
     <meta name="robots" content="index,follow,nosnippet">
     <!-- <meta http-equiv="refresh" content="5;url=http://localhost/projetos/consultorio/index.php"> -->
     <meta name="language" content="pt-BR">
@@ -22,7 +22,7 @@
     <link rel="canonical" href="http://localhost/projetos/consultorio/">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
-    <title>Ana Clara Martins &#8211; Piscologa</title>
+    <title>Ana Clara Martins &#8211; Piscóloga</title>
     <link rel="icon" type="image/x-icon" href="assets\images\logo.png">
 
     <!-- Bootstrap core CSS -->
@@ -90,7 +90,7 @@
       <div class="row">
         <div class="col-lg-6 align-self-center">
           <div class="header-text">
-            <h2>Terapia Comportamental<br><em>Ana Clara Martins Psicologa</em></h2>
+            <h2>Terapia Comportamental<br><em>Ana Clara Martins Psicóloga</em></h2>
             <div class="main-button-gradient ">
               <a class="pulse" href="https://api.whatsapp.com/send?1=pt_BR&phone=5531971084977&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank">Agendar agora!</a>
             </div>
@@ -133,7 +133,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-heading">
-            <h4>Vantagens de comprar<br><em style="font-size: 32px;">Ana Clara Martins psicologa</em></h4>
+            <h4>Psicoterapia Online<br><em style="font-size: 32px;">Ana Clara Martins Psicóloga</em></h4>
           </div>
         </div>
         <div class="col-lg-12">
@@ -141,19 +141,19 @@
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\exclusivo.png" alt="">
+                  <img src="assets\images\agendar.png" alt="">
                 </div>
-                <h4>Peças exclusivas</h4>
-                <p>Lançamos novas peças mensalmente, sempre antenados com as tendências do mundo da moda, e com designer exclusivo.</p>
+                <h4>Agendar uma sessão</h4>
+                <p>As sessões podem ser agendadas via WhatsApp, botão disponível no site. A partir do seu contato estarei à disposição para responder as suas dúvidas e, caso deseje, agendar uma primeira sessão.</p>
               </div>
             </div>
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\lucros.png" alt="">
+                  <img src="assets\images\psicologo.png" alt="">
                 </div>
-                <h4>100% de lucro</h4>
-                <p>Você tem a liberdade de colocar a margem que desejar, seu lucro é de 100% á 300%</p>
+                <h4>CRP 04/61341</h4>
+                <p>Trate transtonos psicológicos com a melhor evidência e melhor técnica.</p>
               </div>
             </div>
             <div class="item">
@@ -161,26 +161,26 @@
                 <div class="icon">
                   <img src="assets\images\flexibilidade.png" alt="">
                 </div>
-                <h4>Flexibilidade</h4>
-                <p>Faça seu horário de acordo a sua disponibilidade</p>
+                <h4>Psicoterapia Online</h4>
+                <p>Com a flexibilidade do atendimento online você ganha tempo e não precisa se preocupar com o deslocamento ao consultório. </p>
               </div>
             </div>
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\aperto-de-mao.png" alt="">
+                  <img src="assets\images\psicologia.png" alt="">
                 </div>
-                <h4>Apoio nas vendas</h4>
-                <p>Manuela Britto te dá total assistência disponibilizando conteúdos semanais para que seja divulgado nas redes sociais de sua preferência.</p>
+                <h4>Consultas online</h4>
+                <p>Tendo um espaço reservado para fazer as sessões, a qualidade e a eficácia do atendimento se mantém como as do presencial. As sessões são realizadas através do WhatsApp ou Google Meet.</p>
               </div>
             </div>
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\parcelar.png" alt="">
+                  <img src="assets\images\saude-mental.png" alt="">
                 </div>
-                <h4>Parcelamos seu Pagamento</h4>
-                <p>Facilitamos o seu pagamento através do parcelamento das compras. De maneira fácil e acessível</p>
+                <h4>Atendimento</h4>
+                <p>Atendimento psicológico online no Brasil ou exterior.</p>
               </div>
             </div>
           </div>
@@ -189,7 +189,7 @@
     </div>
   </section>
 
-  
+  <a href="https://www.flaticon.com/br/icones-gratis/saude-mental" title="saúde mental ícones"  hidden>Saúde mental ícones criados por Freepik - Flaticon</a>
 
   <section class="simple-cta">
     <div class="container">
@@ -204,7 +204,7 @@
           <h4 class="font-mobile"> Seja uma atacadista de sucesso.</h4>
           <p>Torne-se um lojista de sucesso e aumente seu lucro com nossos produtos.</p>
           <div class="white-button alinhar-botao">
-            <a class="pulse" href="https://api.whatsapp.com/send?1=pt_BR&phone=553198046573&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank">Quero agendar</a>
+            <a class="pulse" href="https://api.whatsapp.com/send?1=pt_BR&phone=5531971084977&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank">Quero agendar</a>
           </div>
         </div>
       </div>
@@ -361,16 +361,16 @@
         </div>
         <div class="col-lg-12">
           <ul class="social-icons">
-            <li><a target="blank" href="https://www.instagram.com/manuelabritto_acessorios/"><i class="fa fa-instagram"></i></a></li>
-            <li><a href="https://api.whatsapp.com/send?1=pt_BR&phone=553198046573&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" style="position:relative; bottom: 2px" viewBox="0 0 16 16">
+            <li><a target="blank" href="https://www.instagram.com/anaclaramartins_psi/?igshid=MzRlODBiNWFlZA%3D%3D"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5531971084977&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" style="position:relative; bottom: 2px" viewBox="0 0 16 16">
               <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/>
             </svg></a></li>
           </ul>
         </div>
         <div class="col-lg-12">
         <?php
-          $currentYear = date("Y");
-          echo "<p class='copyright'>© 2022 - $currentYear Manuela Britto. Todos os direitos reservados. <br>Desenvolvido por <a target='_blank' href='https://www.gleysondev.com.br/'>Gleyson Alves</a></p>";
+          $currentYear = date("Y",  strtotime("+1 year"));
+          echo "<p class='copyright'>© 2023 - $currentYear Ana Clara Martins. Todos os direitos reservados. <br>Desenvolvido por <a target='_blank' href='https://www.gleysondev.com.br/'>Gleyson Alves</a></p>";
         ?>
         </div>
       </div>
@@ -380,7 +380,7 @@
       <!-- What'sApp START -->
   <div class="promo">
     <span>
-      <a href="https://api.whatsapp.com/send?1=pt_BR&phone=553198046573&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank">
+      <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5531971084977&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="white" class="bi bi-whatsapp" viewBox="0 0 16 16">
           <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z" />
         </svg>
