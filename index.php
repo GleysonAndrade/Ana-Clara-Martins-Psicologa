@@ -23,7 +23,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
     <title>Ana Clara Martins &#8211; Piscologa</title>
-    <link rel="icon" type="image/x-icon" href="assets\images\fav.png">
+    <link rel="icon" type="image/x-icon" href="assets\images\logo.png">
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -61,7 +61,7 @@
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
                       <a href="#" class="logo">
-                          <img src="assets\images\logo-mb-branco.png" style="width: 80px" alt="EduWell Template">
+                          <img src="assets\images\logo.png" style="width: 150px" alt="EduWell Template">
                       </a>
                       <!-- ***** Logo End ***** -->
                       <!-- ***** Menu Start ***** -->
@@ -70,7 +70,7 @@
                           <li class="scroll-to-section"><a href="#sobre" class="negrito">Sobre</a></li>
                           <li class="scroll-to-section"><a href="#vantagens" class="negrito">Vantagens</a></li>
                           <li class="scroll-to-section"><a href="#testimonials" class="negrito">Depoimentos</a></li> 
-                          <li class="scroll-to-section"><a href="#instagram" class="negrito">Instagram</a></li> 
+                          <!-- <li class="scroll-to-section"><a href="#instagram" class="negrito">Instagram</a></li>  -->
                           <li class="scroll-to-section"><a href="#contact-section" class="negrito">Contato</a></li> 
                       </ul>        
                       <a class='menu-trigger'>
@@ -98,7 +98,7 @@
         </div>
         <div class="col-lg-6">
           <div class="right-image">
-            <img src="assets\images\teste-mb.png" alt="">
+            <img src="assets\images\img_header.png" alt="">
           </div>
         </div>
       </div>
@@ -111,7 +111,7 @@
       <div class="row reverse">
         <div class="col-lg-6">
           <div class="left-image">
-            <img src="assets\images\teste-MG-03.png" alt="">
+            <img src="assets\images\img_sobre.png" alt="">
           </div>
         </div>
         <div class="col-lg-6 align-self-center">
@@ -133,7 +133,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-heading">
-            <h4>Vantagens de comprar<br><em style="font-size: 32px;">Manuela Britto acessórios</em></h4>
+            <h4>Vantagens de comprar<br><em style="font-size: 32px;">Ana Clara Martins psicologa</em></h4>
           </div>
         </div>
         <div class="col-lg-12">
@@ -265,7 +265,7 @@
 
   <!-- CARROUSEL TESTE -->
   <section style="margin-top: 140px" id="instagram">
-        <div class="col-md-12 margin50" style="text-align: center; margin-bottom: 30px">
+        <!-- <div class="col-md-12 margin50" style="text-align: center; margin-bottom: 30px">
             <span class="titulo-insta">Nosso Instagram</span>
         </div>
         <div class="owl-carousel owl-theme">
@@ -306,8 +306,8 @@
               </div>
             </div>
         </div>
-    </div>
-    </section>
+    </div> -->
+  </section>
 
     <!-- CARROUSEL TESTE FIM -->
 
