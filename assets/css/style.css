@@ -245,7 +245,7 @@ header
 --------------------------------------------- 
 */
 .background-header {
-  background: #eadcba;
+  background: #d0af8b;
   height: 80px!important;
   position: fixed!important;
   top: 0!important;
@@ -255,7 +255,7 @@ header
 }
 
 .header-area {
-  background: #eadcba !important;
+  background: #d0af8b !important;
   position: absolute;
   height: 110px;
   align-items: center;
