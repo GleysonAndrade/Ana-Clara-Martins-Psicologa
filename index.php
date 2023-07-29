@@ -72,7 +72,6 @@
       color: #fff;
       padding: 20px 0;
       text-align: center;
-      position: fixed;
       bottom: 0;
       left: 0;
       width: 100%;
@@ -249,7 +248,7 @@
             <h4>Depoimentos</h4>
           </div>
         </div>
-        <div class="col-lg-12" style="margin-bottom: 100px;">
+        <div class="col-lg-12" style="margin-bottom: 50px;">
           <div class="owl-testimonials owl-carousel" style="position: relative; z-index: 5;">
             <div class="item">
               <p>“Simplesmente amei as peças.<br>Elas estão fazendo muito sucesso.”</p>
