@@ -4,7 +4,7 @@
 <head>
 
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <meta name="description" content="Ana Clara Martins é uma psicóloga dedicada a proporcionar um atendimento terapêutico de qualidade e acolhedor. Conheça os serviços de psicoterapia e apoio emocional oferecidos, e inicie uma jornada de autodescoberta e bem-estar.">
   <meta name="author" content="Ana Clara Martins">
   <meta name="keywords" content="psicóloga, consulta, ana, clara, martins, consultorio, psicologia">
@@ -15,11 +15,10 @@
   <meta property="og:title" content="Psicóloga Ana Clara Martins - Atendimento Terapêutico e Apoio Emocional">
   <meta property="og:description" content="Conheça os serviços de psicoterapia e apoio emocional oferecidos por Ana Clara Martins, psicóloga dedicada ao bem-estar dos pacientes.">
   <meta property="og:image" content="https://psianaclaramartins.com.br/imagens/IMG_0942.jpg">
-  <!-- <meta property="og:url" content="https://psianaclaramartins.com.br/index"> -->
-  <meta name="geo.position" content="latitude;longitude">
+  <meta property="og:url" content="https://psianaclaramartins.com.br/index">
 
 
-  <link rel="canonical" href="http://localhost/consultorio/">
+  <link rel="canonical" href="https://psianaclaramartins.com.br/">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -90,7 +89,7 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="#" class="logo">
-              <img src="assets\images\logo.png" style="width: 150px" alt="EduWell Template">
+              <img src="assets\images\logo.png" style="width: 150px" alt="Ana Clara Martins Psicóloga">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
@@ -99,8 +98,6 @@
               <li class="scroll-to-section"><a href="#sobre" class="negrito">Sobre</a></li>
               <li class="scroll-to-section"><a href="#vantagens" class="negrito">Vantagens</a></li>
               <li class="scroll-to-section"><a href="#testimonials" class="negrito">Depoimentos</a></li>
-              <!-- <li class="scroll-to-section"><a href="#instagram" class="negrito">Instagram</a></li>  -->
-              <!-- <li class="scroll-to-section"><a href="#contact-section" class="negrito">Contato</a></li>  -->
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -127,7 +124,7 @@
         </div>
         <div class="col-lg-6">
           <div class="right-image">
-            <img src="assets\images\img_header.png" alt="">
+            <img src="assets\images\img_header.png" alt="Ana Clara Martins" title="Ana Clara Martins">
           </div>
         </div>
       </div>
@@ -140,7 +137,7 @@
       <div class="row reverse">
         <div class="col-lg-6">
           <div class="left-image">
-            <img src="assets\images\img_sobre.png" alt="">
+            <img src="assets\images\img_sobre.png" alt="Sobre Ana Clara Martins" title="Sobre Ana Clara Martins">
           </div>
         </div>
         <div class="col-lg-6 align-self-center">
@@ -170,7 +167,7 @@
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\agendar.png" alt="">
+                  <img src="assets\images\agendar.png" alt="agendar ícones" title="agendar ícones">
                 </div>
                 <h4>Agendar uma sessão</h4>
                 <p>As sessões podem ser agendadas via WhatsApp, botão disponível no site. A partir do seu contato estarei à disposição para responder as suas dúvidas e, caso deseje, agendar uma primeira sessão.</p>
@@ -179,7 +176,7 @@
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\psicologo.png" alt="">
+                  <img src="assets\images\psicologo.png" alt="psicólogo ícones" title="psicólogo ícones">
                 </div>
                 <h4>CRP 04/61341</h4>
                 <p>Trate transtonos psicológicos com a melhor evidência e melhor técnica.</p>
@@ -188,7 +185,7 @@
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\flexibilidade.png" alt="">
+                  <img src="assets\images\flexibilidade.png" alt="flexibilidade ícones" title="flexibilidade ícones">
                 </div>
                 <h4>Psicoterapia Online</h4>
                 <p>Com a flexibilidade do atendimento online você ganha tempo e não precisa se preocupar com o deslocamento ao consultório. </p>
@@ -197,7 +194,7 @@
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\psicologia.png" alt="">
+                  <img src="assets\images\psicologia.png" alt="psicologia ícones" title="psicologia ícones">
                 </div>
                 <h4>Consultas online</h4>
                 <p>Tendo um espaço reservado para fazer as sessões, a qualidade e a eficácia do atendimento se mantém como as do presencial. As sessões são realizadas através do WhatsApp ou Google Meet.</p>
@@ -206,7 +203,7 @@
             <div class="item">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets\images\saude-mental.png" alt="">
+                  <img src="assets\images\saude-mental.png" alt="saúde mental ícones" title="saúde mental ícones">
                 </div>
                 <h4>Atendimento</h4>
                 <p>Atendimento psicológico online no Brasil ou exterior.</p>
@@ -225,7 +222,7 @@
       <div class="row">
         <div class="col-lg-5 offset-lg-1">
           <div class="left-image mover">
-            <img src="assets\images\teste-MG-02.png" alt="">
+            <img src="assets\images\teste-MG-02.png" alt="ana_clara_matrins" title="ana_clara_martins">
           </div>
         </div>
         <div class="col-lg-5 align-self-center">
