@@ -9,20 +9,19 @@
   <meta name="author" content="Ana Clara Martins">
   <meta name="keywords" content="psicóloga, consulta, ana, clara, martins, consultorio, psicologia">
   <meta name="robots" content="index,follow,nosnippet">
-  <!-- <meta http-equiv="refresh" content="5;url=http://psianaclaramartins.com.br/index"> -->
+  <!-- <meta http-equiv="refresh" content="35;url=http://psianaclaramartins.com.br"> -->
   <meta name="language" content="pt-BR">
 
   <meta property="og:title" content="Psicóloga Ana Clara Martins - Atendimento Terapêutico e Apoio Emocional">
   <meta property="og:description" content="Conheça os serviços de psicoterapia e apoio emocional oferecidos por Ana Clara Martins, psicóloga dedicada ao bem-estar dos pacientes.">
-  <meta property="og:image" content="https://psianaclaramartins.com.br/imagens/IMG_0942.jpg">
+  <meta property="og:image" content="https://psianaclaramartins.com.br/assets/images/IMG_0942.jpg">
   <meta property="og:url" content="https://psianaclaramartins.com.br/index">
 
 
   <link rel="canonical" href="https://psianaclaramartins.com.br/">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap" rel="stylesheet">
 
   <title>Ana Clara Martins &#8211; Piscóloga</title>
   <link rel="icon" type="image/x-icon" href="assets\images\logo.png">
@@ -64,20 +63,6 @@
       transform: scale(2);
       color: #ccc;
     }
-
-    /* Estilos para a seção do rodapé */
-    .footer-section {
-      background-color: #d0af8b;
-      color: #fff;
-      padding: 20px 0;
-      text-align: center;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      margin: 0 auto;
-      z-index: -5;
-      margin-top: 30px;
-    }
   </style>
 
 
@@ -111,20 +96,14 @@
   <!-- ***** Header Area End ***** -->
 
   <!-- ***** Main Banner Area Start ***** -->
-  <section class="main-banner" id="top">
+  <section class="main-banner" id="top" style="background-color: #000; background-image: url('assets/images/IMG_0942.jpg'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-position: top; margin-top: 15px; opacity:0.8;">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 align-self-center">
+        <div class="col-lg-9 align-self-center">
           <div class="header-text">
-            <h2 style="font-family: 'La Belle Aurore', cursive;">Terapia Congnitivo Comportamental<br><em>Psicóloga <br> Ana Clara Martins</em></h2>
-            <div class="main-button-gradient ">
-              <a class="pulse" href="https://api.whatsapp.com/send?1=pt_BR&phone=5531971084977&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank">Agendar agora!</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="right-image">
-            <img src="assets\images\img_header.png" alt="Ana Clara Martins" title="Ana Clara Martins">
+            <h2 style="font-family: 'Cormorant Garamond', serif;">Já cuidou da sua saúde mental hoje?</h2>
+            <h2 style="font-family: 'Cormorant Garamond', serif;">Terapia Congnitivo <br> Comportamental</h2>
+            <h2 style="font-family: 'Cormorant Garamond', serif;">Psicóloga - Ana Clara Martins</h2>
           </div>
         </div>
       </div>
@@ -248,39 +227,39 @@
         <div class="col-lg-12" style="margin-bottom: 50px;">
           <div class="owl-testimonials owl-carousel" style="position: relative; z-index: 5;">
             <div class="item">
-              <p>“Simplesmente amei as peças.<br>Elas estão fazendo muito sucesso.”</p>
-              <h4>Camila</h4>
-              <span>Revendedora Manuela Britto</span>
+              <p>“Sempre fiz terapia,<br>mas hoje só tenho a agradecer por encontrar você. <br> Obrigada por tanta ajuda, <br>Ana. Desejo sucesso sempre.”</p>
+              <h4>I.R</h4>
+              <span>Paciente</span>
               <img src="assets/images/quote.png" alt="">
             </div>
             <div class="item">
-              <p>“Recebi ontem as peças.<br>Todas lindas.<br>Estou encantada!”</p>
-              <h4>Izimara</h4>
-              <span>Revendedora Manuela Britto</span>
+              <p>“Quero deixar aqui minha eterna gratidão pela profissional de qualidade que você é, <br> aos poucos tem me ajudado a me transformar...”</p>
+              <h4>G.R</h4>
+              <span>Paciente</span>
               <img src="assets/images/quote.png" alt="">
             </div>
             <div class="item">
-              <p>“Peças maravilhosas.<br> Design diferenciado”</p>
-              <h4>Erika</h4>
-              <span>Revendedora Manuela Britto</span>
+              <p>“Indico muito a terapia para um melhor auto conhecimento.<br> As nossas sessões tem me ajudado muito no meu desenvolvimento pessoal...”</p>
+              <h4>Y.P</h4>
+              <span>Paciente</span>
               <img src="assets/images/quote.png" alt="">
             </div>
             <div class="item">
-              <p>“Amei.<br>Já vendemos tudo”</p>
-              <h4>Tainah</h4>
-              <span>Revendedora Manuela Britto</span>
+              <p>“É minha primeira experiência com psicólogos na vida adulta,<br>a Ana tem me ajudado,<br>já com poucas consultas...<br>”</p>
+              <h4>G.R</h4>
+              <span>Paciente</span>
               <img src="assets/images/quote.png" alt="">
             </div>
             <div class="item">
-              <p>“As peças são lindas.<br> Fiquei encantada com o brinde!”</p>
-              <h4>Anna Raphaela</h4>
-              <span>Revendedora Manuela Britto</span>
+              <p>“É minha primeira experiência com psicólogos na vida adulta, <br>  a Ana tem me ajudado, <br> á com poucas consultas, me sinto confortável..”</p>
+              <h4>G.R</h4>
+              <span>Paciente</span>
               <img src="assets/images/quote.png" alt="">
             </div>
             <div class="item">
-              <p>“Lindas demais!<br> Obrigado pelo carinho.<br> Amei o anel!”</p>
-              <h4>Simone</h4>
-              <span>Revendedora Manuela Britto</span>
+              <p>“Na minha primeira sessão já me senti muito bem.<br> Estou me sentindo mais leve.<br> Obrigado pelo acolhimento profissional...”</p>
+              <h4>V.M</h4>
+              <span>Paciente</span>
               <img src="assets/images/quote.png" alt="">
             </div>
           </div>
@@ -295,10 +274,6 @@
     <footer>
       <div class="col-lg-12">
         <ul class="social-icons">
-          <!-- <li><a target="blank" href="https://www.instagram.com/anaclaramartins_psi/?igshid=MzRlODBiNWFlZA%3D%3D"><i class="fa fa-instagram"></i></a></li> -->
-          <!-- <li><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5531971084977&text=Ol%C3%A1!%20Gostaria%20de%20agendar%20minha%20consulta!" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" style="position:relative; bottom: 2px" viewBox="0 0 16 16">
-                <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z" />
-              </svg></a></li> -->
         </ul>
       </div>
       <div class="col-lg-12">

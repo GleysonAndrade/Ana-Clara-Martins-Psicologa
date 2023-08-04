@@ -728,9 +728,12 @@ section.main-banner {
 	}
 }
 
+.main-banner {
+  position: relative;
+}
+
 .main-banner .right-image::after {
   position: absolute;
-  background-image: url(../images/banner-right-dec.png);
   width: 378px;
   height: 378px;
   content: '';
@@ -775,7 +778,7 @@ section.main-banner {
 
 .main-banner .header-text::after {
   position: absolute;
-  background-image: url(../images/banner-left-dec.png);
+  /* background-image: url(../images/banner-left-dec.png); */
   width: 214px;
   height: 429px;
   content: '';
@@ -797,8 +800,8 @@ section.main-banner {
   position: relative;
   z-index: 2;
   margin-top: 20px;
-  font-size: 64px;
-  color: #111111;
+  font-size: 55px;
+  color: #FFF;
   font-weight: 900;
   line-height: 74px;
   margin-bottom: 40px;
@@ -814,6 +817,16 @@ section.main-banner {
   z-index: 2;
 }
 
+.main-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* You can adjust the opacity here (0.5 is 50% opacity) */
+  z-index: -1; 
+}
 
 /*
 ---------------------------------------------
@@ -1131,7 +1144,7 @@ section.testimonials:after {
 .testimonials .item p {
   font-size: 16px;
   font-style: italic;
-  height: 90px;
+  height: 120px;
 }
 
 .testimonials .item h4 {
@@ -2110,4 +2123,18 @@ body {
 .item{
   margin: 20px;
   border-radius: 20px;
+}
+
+/* Estilos para a seção do rodapé */
+.footer-section {
+  background-color: #d0af8b;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin: 0 auto;
+  z-index: -5;
+  margin-top: 30px;
 }

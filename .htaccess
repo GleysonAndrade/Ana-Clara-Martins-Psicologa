@@ -14,3 +14,7 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{SCRIPT_FILENAME} !-f
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^(.*)$ index.php?route=/$1 [L,QSA]
+
+# Remove "#[object%20Object]" from the URL
+RewriteCond %{THE_REQUEST} \s/+(.*?)#[Oo]bject\%20[Oo]bject(/\S*)?\sHTTP [NC]
+RewriteRule ^ /%1%2 [R=301,L,NE]
