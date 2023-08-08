@@ -9,16 +9,15 @@
   <meta name="author" content="Ana Clara Martins">
   <meta name="keywords" content="psicóloga, consulta, ana, clara, martins, consultorio, psicologia">
   <meta name="robots" content="index,follow,nosnippet">
-  <!-- <meta http-equiv="refresh" content="35;url=http://psianaclaramartins.com.br"> -->
   <meta name="language" content="pt-BR">
 
-  <meta property="og:title" content="Psicóloga Ana Clara Martins - Atendimento Terapêutico e Apoio Emocional">
+  <meta property="og:title" content="Psicóloga Ana Clara Martins - Tratamentos com eficácia comprovada.">
   <meta property="og:description" content="Conheça os serviços de psicoterapia e apoio emocional oferecidos por Ana Clara Martins, psicóloga dedicada ao bem-estar dos pacientes.">
   <meta property="og:image" content="https://psianaclaramartins.com.br/assets/images/IMG_0942.jpg">
-  <meta property="og:url" content="https://psianaclaramartins.com.br/index">
+  <meta property="og:url" content="https://psianaclaramartins.com.br">
 
 
-  <link rel="canonical" href="https://psianaclaramartins.com.br/">
+  <link rel="canonical" href="https://psianaclaramartins.com.br">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap" rel="stylesheet">
@@ -64,8 +63,7 @@
       color: #ccc;
     }
   </style>
-
-
+  
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
     <div class="container">
@@ -83,6 +81,7 @@
               <li class="scroll-to-section"><a href="#sobre" class="negrito">Sobre</a></li>
               <li class="scroll-to-section"><a href="#vantagens" class="negrito">Vantagens</a></li>
               <li class="scroll-to-section"><a href="#testimonials" class="negrito">Depoimentos</a></li>
+              <li class="scroll-to-section"><a href="#contact-section" class="negrito">Como Chegar</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -93,22 +92,23 @@
       </div>
     </div>
   </header>
+  <br>
   <!-- ***** Header Area End ***** -->
 
   <!-- ***** Main Banner Area Start ***** -->
-  <section class="main-banner" id="top" style="background-color: #000; background-image: url('assets/images/IMG_0942.jpg'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-position: top; margin-top: 15px; opacity:0.8;">
+  <section class="main-banner" id="top" style="background-color: #000; background-image: url('assets/images/IMG_0942.jpg'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-position: top; margin-top: 25px; opacity:0.8">
     <div class="container">
       <div class="row">
         <div class="col-lg-9 align-self-center">
           <div class="header-text">
-            <h2 style="font-family: 'Cormorant Garamond', serif;">Já cuidou da sua saúde mental hoje?</h2>
-            <h2 style="font-family: 'Cormorant Garamond', serif;">Terapia Congnitivo <br> Comportamental</h2>
-            <h2 style="font-family: 'Cormorant Garamond', serif;">Psicóloga - Ana Clara Martins</h2>
+            <h2 class="font-mobile" style="font-family: 'Cormorant Garamond', serif;">Já cuidou da sua saúde <br> mental hoje?</h2>
+            <h2 class="font-mobile" style="font-family: 'Cormorant Garamond', serif;">Psicóloga <br> Ana Clara Martins</h2>
           </div>
         </div>
       </div>
     </div>
   </section>
+
   <!-- ***** Main Banner Area End ***** -->
 
   <section class="get-info margin-100" id="sobre">
@@ -138,7 +138,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-heading">
-            <h4>Psicoterapia Online<br><em style="font-size: 32px;">Ana Clara Martins Psicóloga</em></h4>
+            <h4><br><em style="font-size: 32px;">Psicoterapia Online e Presencial</em></h4>
           </div>
         </div>
         <div class="col-lg-12">
@@ -175,8 +175,8 @@
                 <div class="icon">
                   <img src="assets\images\psicologia.png" alt="psicologia ícones" title="psicologia ícones">
                 </div>
-                <h4>Consultas online</h4>
-                <p>Tendo um espaço reservado para fazer as sessões, a qualidade e a eficácia do atendimento se mantém como as do presencial. As sessões são realizadas através do WhatsApp ou Google Meet.</p>
+                <h4>Consultas Presenciais</h4>
+                <p>Temos também um espaço presencial localizado na seguinte endereço: <b>Rua Curupaiti, 359 - Padre Eustáquio - Belo Horizonte MG</b>.</p>
               </div>
             </div>
             <div class="item">
@@ -221,7 +221,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-heading">
-            <h4>Depoimentos</h4>
+            <h4><em>Depoimentos</em></h4>
           </div>
         </div>
         <div class="col-lg-12" style="margin-bottom: 50px;">
@@ -268,7 +268,31 @@
     </div>
   </section>
 
+  <style>
+    .espaco {
+      height: 10px; /* Crie um espaço de 10 pixels de altura */
+      display: block; /* Ou use "inline-block" para permitir conteúdo ao lado */
+    }
 
+  </style>
+
+  <div class="espaco"></div>
+ 
+  <section class="contact-us" id="contact-section">
+    <div class="container">
+      <div class="row">
+          <div class="section-heading">
+            <h4><em>Onde Nos Encontrar</em></h4>
+          </div>
+        <div class="col-lg-12">
+        <div id="map">
+          <!-- You just need to go to Google Maps for your own map point, and copy the embed code from Share -> Embed a map section -->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.243150092153!2d-43.98789872569772!3d-19.91415593781352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa696de3d87ec3f%3A0xb2ed93c222817094!2sR.%20Curupaiti%2C%20359%20-%20Padre%20Eust%C3%A1quio%2C%20Belo%20Horizonte%20-%20MG%2C%2030730-440!5e0!3m2!1spt-BR!2sbr!4v1691506053420!5m2!1spt-BR!2sbr" width="100%" height="420px" frameborder="0" style="border:0; border-radius: 15px; position: relative; z-index: 2;" allowfullscreen=""></iframe>
+        </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <section class="footer-section" id="footer">
     <footer>
@@ -278,8 +302,8 @@
       </div>
       <div class="col-lg-12">
         <?php
-        $currentYear = date("Y",  strtotime("+1 year"));
-        echo "<p class='copyright'>© 2023 - $currentYear Ana Clara Martins. Todos os direitos reservados. <br>Desenvolvido por <a target='_blank' href='https://www.gleysondev.com.br/'>Gleyson Alves</a></p>";
+          $currentYear = date("Y",  strtotime("+1 year"));
+          echo "<p class='copyright'>© 2023 - $currentYear Ana Clara Martins. Todos os direitos reservados. <br>Desenvolvido por <a target='_blank' href='https://www.gleysondev.com.br/'>Gleyson Alves</a></p>";
         ?>
       </div>
     </footer>
