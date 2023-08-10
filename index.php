@@ -95,14 +95,33 @@
   <br>
   <!-- ***** Header Area End ***** -->
 
+  <style>
+  .main-banner .header-text span {
+    position: relative;
+    z-index: 2;
+    margin-top: 10px;
+    font-size: 55px;
+    color: #FFF;
+    font-weight: 900;
+    line-height: 74px;
+    margin-bottom: 40px;
+  }
+
+  .header-text {
+    margin-top: -100px;
+  }
+  </style>
+
   <!-- ***** Main Banner Area Start ***** -->
-  <section class="main-banner" id="top" style="background-color: #000; background-image: url('assets/images/IMG_0942.jpg'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-position: top; margin-top: 25px; opacity:0.8">
+  <section class="main-banner" id="top" style="background-color: #000; background-image: url('assets/images/IMG_0942.jpg'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-position: top; margin-top: 25px; opacity:0.8; padding-top: 500px; padding-bottom: 80px;">
     <div class="container">
       <div class="row">
         <div class="col-lg-9 align-self-center">
           <div class="header-text">
-            <h2 class="font-mobile" style="font-family: 'Cormorant Garamond', serif;">Já cuidou da sua saúde <br> mental hoje?</h2>
-            <h2 class="font-mobile" style="font-family: 'Cormorant Garamond', serif;">Psicóloga <br> Ana Clara Martins</h2>
+            <span class="font-mobile" style="font-family: 'Cormorant Garamond', serif;">Já cuidou da sua saúde mental hoje?</span>
+            <span class="font-mobile" style="font-family: 'Cormorant Garamond', serif;">Psicóloga Ana Clara Martins</span>
+            <!-- <h2 class="font-mobile" style="font-family: 'Cormorant Garamond', serif;">Já cuidou da sua saúde <br> mental hoje?</h2>
+            <h2 class="font-mobile" style="font-family: 'Cormorant Garamond', serif;">Psicóloga <br> Ana Clara Martins</h2> -->
           </div>
         </div>
       </div>

@@ -694,9 +694,9 @@ section.main-banner {
   margin-top: 0px;
 }
 
-.main-banner {
+/* .main-banner {
   padding-top: 180px;
-}
+} */
 
 .main-banner .right-image {
   margin-left: 120px;
@@ -1992,16 +1992,31 @@ body {
   }
 
   .main-banner {
-    background-position: center center;
-    padding-top: 60px;
-    background-size: contain;
-    margin-top: 30px !important;
+    background-position: top !important; /* Ajusta a posição vertical da imagem */
+    padding-top: 100px !important; /* Ajusta o espaçamento superior */
+    padding-bottom: 100px !important; /* Adicione um espaçamento inferior */
+    margin-top: 50px !important; /* Ajusta a margem superior */
+    /* background-position: center center !important;
+    padding-top: 60px !important; 
+    background-size: contain !important;
+    margin-top: 30px !important; */
   }
 
-  .header-text h2 {
-    margin: 0 !important; /* Remover margens externas */
-    padding: 0 !important; /* Remover padding interno */
+  .header-text span {
+    margin: 0 !important; /* Remove todas as margens */
+    padding: 10px 0 !important; /* Adicione um espaçamento interno */
+    font-size: 24px !important; /* Reduza o tamanho da fonte */
+    line-height: 48px !important; /* Ajuste a altura da linha */
   }
+
+  .header-text {
+    padding: 200px 0 20px !important;
+  }
+
+  /* .header-text h2 {
+    margin: 0 !important;
+    padding: 0 !important;
+  } */
   
   .margin-100{
     margin-top: 0px!important;
