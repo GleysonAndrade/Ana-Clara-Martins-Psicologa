@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <meta name="description" content="Ana Clara Martins é uma psicóloga dedicada a proporcionar um atendimento terapêutico de qualidade e acolhedor. Conheça os serviços de psicoterapia e apoio emocional oferecidos, e inicie uma jornada de autodescoberta e bem-estar.">
   <meta name="author" content="Ana Clara Martins">
-  <meta name="keywords" content="psicóloga, consulta, ana, clara, martins, consultorio, psicologia">
+  <meta name="keywords" content="psicóloga, consulta, psicóloga TCC, psicologia cognitivo comportamental, psicóloga online, psicóloga presencial, psicóloga comportamental, terapeuta, consultório, psicologia">
   <meta name="robots" content="index,follow,nosnippet">
   <meta name="language" content="pt-BR">
 
@@ -22,7 +22,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap" rel="stylesheet">
 
-  <title>Ana Clara Martins &#8211; Piscóloga</title>
+  <title>Piscóloga &#8211; Ana Clara Martins</title>
   <link rel="icon" type="image/x-icon" href="assets\images\logo.png">
 
   <!-- Bootstrap core CSS -->
