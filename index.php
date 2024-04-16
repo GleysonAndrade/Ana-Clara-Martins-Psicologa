@@ -2,7 +2,13 @@
 <html lang="pt-BR">
 
 <head>
-
+  <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PFVCNHRJ');</script>
+  <!-- End Google Tag Manager -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <meta name="description" content="Ana Clara Martins é uma psicóloga dedicada a proporcionar um atendimento terapêutico de qualidade e acolhedor. Conheça os serviços de psicoterapia e apoio emocional oferecidos, e inicie uma jornada de autodescoberta e bem-estar.">
@@ -35,7 +41,11 @@
   <link rel="stylesheet" href="assets/css/lightbox.css">
 </head>
 
-<body style="overflow-x: hidden!important;;">
+<body style="overflow-x: hidden!important;">
+
+  <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFVCNHRJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   <style>
     .owl-prev,
