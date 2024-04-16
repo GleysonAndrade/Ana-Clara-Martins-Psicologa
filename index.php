@@ -1,3 +1,8 @@
+<?php 
+  // URL original
+  $url = urldecode('https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
+  $resto_url = str_replace("-", " ", explode("/#[object%20Object]", $url)[0]);
+?>
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -332,7 +337,7 @@
       <div class="col-lg-12">
         <?php
           $currentYear = date("Y",  strtotime("+1 year"));
-          echo "<p class='copyright'>© 2023 - $currentYear Ana Clara Martins. Todos os direitos reservados. <br>Desenvolvido por <a target='_blank' href='https://www.gleysondev.com.br/'>Gleyson Alves</a></p>";
+          echo "<p class='copyright'>© 2023 - $currentYear Ana Clara Martins. Todos os direitos reservados. <br>Desenvolvido por <a target='_blank' href='https://api.whatsapp.com/send?1=pt_BR&phone=5531981018598&text=Ol%C3%A1!%20Meu%20nome%20%C3%A9%20Gleyson%20e%20sou%20um%20Desenvolvedor%20Web.%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento.%20Podemos%20conversar%20sobre%20os%20detalhes%3F'>Gleyson Alves</a></p>";
         ?>
       </div>
     </footer>
@@ -351,16 +356,18 @@
 
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
+  
   <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+ 
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
   <script src="assets/js/isotope.min.js"></script>
   <script src="assets/js/owl-carousel.js"></script>
+  <script src="assets/js/custom.js"></script>z
   <script src="assets/js/lightbox.js"></script>
   <script src="assets/js/tabs.js"></script>
   <script src="assets/js/video.js"></script>
   <script src="assets/js/slick-slider.js"></script>
-  <script src="assets/js/custom.js"></script>
   <script>
     $(document).ready(function() {
       $(".menu-fechado").click(function(e) {
@@ -443,6 +450,13 @@
     $(window).scroll(function() {
       checkSection();
     });
+
+    // Obter a URL original e o resto da URL
+    var originalUrl = decodeURIComponent('https://' + window.location.host + window.location.pathname);
+    var restoUrl = originalUrl.split('/#[object%20Object]')[0];
+    
+    // Atualizar a URL sem recarregar a página
+    history.pushState(null, null, restoUrl);
   </script>
 </body>
 

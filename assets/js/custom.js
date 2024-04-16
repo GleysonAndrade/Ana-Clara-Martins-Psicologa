@@ -234,6 +234,11 @@
 	            currLink.removeClass("active");
 	        }
 	    });
+	    var originalUrl = decodeURIComponent('https://' + window.location.host + window.location.pathname);
+		var restoUrl = originalUrl.split('/#[object%20Object]')[0];
+		
+		// Atualizar a URL sem recarregar a página
+		history.pushState(null, null, restoUrl);
 	}
 
 
