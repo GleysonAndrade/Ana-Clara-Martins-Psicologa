@@ -91,7 +91,7 @@
               <li class="scroll-to-section"><a href="#sobre" class="negrito">Sobre</a></li>
               <li class="scroll-to-section"><a href="#vantagens" class="negrito">Vantagens</a></li>
               <li class="scroll-to-section"><a href="#testimonials" class="negrito">Depoimentos</a></li>
-              <li class="scroll-to-section"><a href="#contact-section" class="negrito">Como Chegar</a></li>
+              <!-- <li class="scroll-to-section"><a href="#contact-section" class="negrito">Como Chegar</a></li> -->
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -167,7 +167,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-heading">
-            <h4><br><em style="font-size: 32px;">Psicoterapia Online e Presencial</em></h4>
+            <h4><br><em style="font-size: 32px;">Psicoterapia Online</em></h4>
           </div>
         </div>
         <div class="col-lg-12">
@@ -199,7 +199,7 @@
                 <p>Com a flexibilidade do atendimento online você ganha tempo e não precisa se preocupar com o deslocamento ao consultório. </p>
               </div>
             </div>
-            <div class="item">
+            <!-- <div class="item">
               <div class="service-item">
                 <div class="icon">
                   <img src="assets\images\psicologia.png" alt="psicologia ícones" title="psicologia ícones">
@@ -207,7 +207,7 @@
                 <h4>Consultas Presenciais</h4>
                 <p>Temos também um espaço presencial localizado na seguinte endereço: <b>Rua Curupaiti, 359 - Padre Eustáquio - Belo Horizonte MG</b>.</p>
               </div>
-            </div>
+            </div> -->
             <div class="item">
               <div class="service-item">
                 <div class="icon">
@@ -307,7 +307,7 @@
 
   <div class="espaco"></div>
  
-  <section class="contact-us" id="contact-section">
+  <!-- <section class="contact-us" id="contact-section">
     <div class="container">
       <div class="row">
           <div class="section-heading">
@@ -315,13 +315,13 @@
           </div>
         <div class="col-lg-12">
         <div id="map">
-          <!-- You just need to go to Google Maps for your own map point, and copy the embed code from Share -> Embed a map section -->
+          You just need to go to Google Maps for your own map point, and copy the embed code from Share -> Embed a map section
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.243150092153!2d-43.98789872569772!3d-19.91415593781352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa696de3d87ec3f%3A0xb2ed93c222817094!2sR.%20Curupaiti%2C%20359%20-%20Padre%20Eust%C3%A1quio%2C%20Belo%20Horizonte%20-%20MG%2C%2030730-440!5e0!3m2!1spt-BR!2sbr!4v1691506053420!5m2!1spt-BR!2sbr" width="100%" height="420px" frameborder="0" style="border:0; border-radius: 15px; position: relative; z-index: 2;" allowfullscreen=""></iframe>
         </div>
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="footer-section" id="footer">
     <footer>
